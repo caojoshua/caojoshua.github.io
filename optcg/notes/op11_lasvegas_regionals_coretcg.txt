@@ -1,0 +1,42 @@
+CoreTCG Las Vegas regional OP11 2025-06-21. Went 8-2 as Bonney. Placed 47th, bubbling out of top 32 top cut, but likely will get a nationals invite.
+
+UP Luffy 🎲 2nd X - Some small misplays but he found most of his stuff. Tough game.
+GP Luffy  1st ✅ - Kept 2 SPUD and gamma knife. Not good enough imo. Really want nami searcher and zorojuro in this MU. Played franky on 4don, but probably better just pass, cause can tap and kill next turn.
+Enel 1st ✅ - Bottom both zoro early. He dropped 3 10c enel, but didn't swing to play around shanks (I think its correct). Eventually I loop back to zoro and he couldn't answer it.
+BP Luffy 2nd ✅ - Weak start and I rekt him with shanks.
+Buggy 🎲 1st X - I'm just fucking bad kms. No tashigi or cavendish and draw into 3 shanks and zoro. But it was still so free cause honestly buggy is such an ass deck. Just needed to b2b hody and he dead, but I for some reason I pussy out of dropping the first hody.
+BP Luffy 🎲 1st ✅ - He didn't swing aggressively to play around carrot/shanks (which isn't necessarily wrong play). I drop zoro while healthy and he was fked. 
+Betty 1st ✅ - Found cavendish+carrot. Won game with 2 kid and 3 life.
+GP Luffy 1st ✅ - His turn 4 (7don after using leader effect) with zorojuro + leader effect + SPUD 2. Probably not good enough in this MU. Need LuffyTarou -> SPUD, or SPUD -> SPUD. Once I started dropping shanks he was fked.
+UP Luffy 🎲 2nd ✅ - Double hody pressure was strong. He swung aggressively and got me down to zero. I played kid, but no blocker or tashigi. He found his second red roc and swung 13k+6k. I had two 0c events and 4 1k's for exact counter. He had good shot at living if he left some don up for events and could probably kill me next turn.
+GY Law 🎲 1st ✅
+  - Played 1c apoo to kill searcher luffy on 3don to deny 4don leader effect. Shanks his kid into life (bege effect) twice, and hid behind kid. He couldn't deal with the big bodies.
+After missing top cut, played two side events of 4 round swiss (basically b2b locals). Total record 7-1.
+side event 1. 3-1
+Buggy ✅
+GP Luffy ✅
+Bonney ✅
+Lucci X
+
+side event 2. 4-0
+Shanks ✅ - This guy actually X-1'ed the treasure cup I X-2'ed using shanks. But he had some sus plays. He prioritized face instead of carrot (shanks players really do this). He missed beckman on 7don and played lucky roux + 2 building snake, which I feasted on with hody.
+Yellow kid ✅
+Lucci ✅ - I'm the goat. Weird game. No jack/10zan, but I didn't find hody either.
+Teach ✅
+
+
+Combined main event and side events, finished 15-3 for the weekend.
+
+Diverse spread over the weekend
+3: GP Luffy
+2: UP Luffy, BP Luffy, Buggy, Lucci
+1: Enel, Betty, GY Law, Bonney, Shanks, Yellow Kid, Teach
+
+Could've played better in most of the games, but its mostly small mistakes. The main game I'm super salty about is the buggy loss. Can't afford to make big mistakes like that next time if I want to be a top cut player.
+See decklist https://deckbuilder.egmanevents.com/?deck=OP07-019:1,EB01-015:2,ST02-007:4,OP01-039:1,OP05-030:4,ST02-008:2,ST24-001:2,ST24-002:2,OP10-032:4,OP07-021:3,EB01-012:4,OP08-023:4,ST24-005:2,OP06-035:4,OP01-051:3,OP06-118:2,ST16-004:4,OP05-037:2,OP06-038:1&type=optcg
+
+The main thing I would change is getting rid of the green rad beam. It never made any significant difference this weekend. My justification is that we often have redundant don with kidkiller and urouge on board, but in practice we only want to use the event late game, but theres no board space to keep kidkiller around.
+
+I had 10 2k's, but I think 11-12 is correct since we play out tashigi in so many MUs. We can cut green rad beam for one 2k, but not sure where to fit the second 2k if we want 12 total. I generally think 2k lineup is fake, but I saw a lot of people saying the new hawkins is useful sometimes so I could test him out.
+
+Not super confident int the top end lineup. I added a third kid last minute, but it sucks to see multiple. Can justify running only two because of we have more searches through kidkiller. I think its also worth testing 3 zoro for better time against UP Luffy. We can afford to run more bricks if we cut the killer blocker for one more bege.
