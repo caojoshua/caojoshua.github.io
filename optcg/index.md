@@ -16,4 +16,4 @@
 |OP12|[TCG Matchmaking box tournament](https://discord.com/channels/1111408561499676753/1205312557355638867/1432460503329935360)|R Rayleigh|7-0|1 / 183|[notes](notes/op12_tcgmatchmaking_box_tournament.txt)|
 |OP12|[Treasure Cup Top Cut](https://egmanevents.com/one-piece-op12-tournaments/top-cut-event-november-online-treasure-cup)|G Bonney|6-3|92 / 1024|[notes](notes/op12_treasurecup_topcut.txt)
 |OP12|[Treasure Cup 401 Games](https://egmanevents.com/one-piece-op12-tournaments/401-games-online-treasure-cup)|G Bonney|8-1|2 / 512<br>(serial zoro/uncut)|[notes](notes/op12_treasurecup_401.txt)|
-|OP13|[Treasure Cup Carta Magica]()|RU Ace|6-3|52 / 512|[notes](notes/op13_treasurecup_cartamagica.txt)|
+|OP13|[Treasure Cup Carta Magica](https://egmanevents.com/one-piece-op13-tournaments/carta-magica-online-treasure-cup)|RU Ace|6-3|52 / 512|[notes](notes/op13_treasurecup_cartamagica.txt)|
