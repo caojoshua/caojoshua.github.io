@@ -1,5 +1,7 @@
 ## Tournament Results
 
+[Limitless profile](https://onepiece.limitlesstcg.com/players/3334) - Limitless captures most tops, but its not always consistent. For example, I got top 32 in PPG and PlayTCG OP12 regionals, but only the latter only posted top 16.
+
 |Format|Event|Leader|Score|Placing|Notes|
 |OP09|[Treasure Cup Versus Games](https://egmanevents.com/one-piece-op09/versus-games-february-treasure-cup)|G Bonney|6-4|200 / 1024|
 |OP09|[Treasure Cup Top Cut](https://egmanevents.com/one-piece-op09/top-cut-events-february-treasure-cup)|G Bonney|7-3|101 / 1024|
@@ -13,7 +15,12 @@
 |OP12|[Regionals PPG](https://egmanevents.com/one-piece-op12-tournaments/pro-play-games-online-regionals)|G Bonney|8-2|23 / 1024|[notes](notes/op12_regionals_ppg.txt)|
 |OP12|[Regionals PlayTCG](https://egmanevents.com/one-piece-op12-tournaments/playtcg-october-online-regionals)|G Bonney|8-2|31 / 1024|[notes](notes/op12_regionals_playtcg.txt)|
 |OP12|[Regionals Booster Box](https://egmanevents.com/one-piece-op12-tournaments/booster-box-online)|G Bonney|8-2|12 / 1024|[notes](notes/op12_regionals_boosterbox.txt)|
-|OP12|[TCG Matchmaking box tournament](https://discord.com/channels/1111408561499676753/1205312557355638867/1432460503329935360)|R Rayleigh|7-0|1 / 183|[notes](notes/op12_tcgmatchmaking_box_tournament.txt)|
 |OP12|[Treasure Cup Top Cut](https://egmanevents.com/one-piece-op12-tournaments/top-cut-event-november-online-treasure-cup)|G Bonney|6-3|92 / 1024|[notes](notes/op12_treasurecup_topcut.txt)
 |OP12|[Treasure Cup 401 Games](https://egmanevents.com/one-piece-op12-tournaments/401-games-online-treasure-cup)|G Bonney|8-1|2 / 512<br>(serial zoro/uncut)|[notes](notes/op12_treasurecup_401.txt)|
 |OP13|[Treasure Cup Carta Magica](https://egmanevents.com/one-piece-op13-tournaments/carta-magica-online-treasure-cup)|RU Ace|6-3|52 / 512|[notes](notes/op13_treasurecup_cartamagica.txt)|
+
+## Other stuff
+
+* I won the [TCG Matchmaking box tournament #58](https://discord.com/channels/1111408561499676753/1205312557355638867/1432460503329935360) with R Rayleigh, going 7-0.
+  * It was a bucket list item to win this event when I first started playing the game, and I finally won it. I probably had played >15 times, making the finals once before and the quaterfinals three times before. I don't think I will play this event again since it is really time consuming waiting for opponents to finish, and the competition is not that good until later rounds.
+  * This qualified me to play the second pirate king of the hill (see box tournament link), where I beat Szychu in the Ace mirror 2-1, and lost to DogOfWisdom in the Ace mirror 0-3. Skepas won the event beating DogOfWisdom 4-2. See the [recording](https://www.youtube.com/watch?v=uIAArhlsh9E).
