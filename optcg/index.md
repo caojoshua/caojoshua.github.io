@@ -18,6 +18,7 @@
 |OP12|[Treasure Cup Top Cut](https://egmanevents.com/one-piece-op12-tournaments/top-cut-event-november-online-treasure-cup)|G Bonney|6-3|92 / 1024|[notes](notes/op12_treasurecup_topcut.txt)
 |OP12|[Treasure Cup 401 Games](https://egmanevents.com/one-piece-op12-tournaments/401-games-online-treasure-cup)|G Bonney|8-1|2 / 512<br>(serial zoro/uncut)|[notes](notes/op12_treasurecup_401.txt)|
 |OP13|[Treasure Cup Carta Magica](https://egmanevents.com/one-piece-op13-tournaments/carta-magica-online-treasure-cup)|RU Ace|6-3|52 / 512|[notes](notes/op13_treasurecup_cartamagica.txt)|
+|OP13|[Dallas Regionals PlayTCG](https://egmanevents.com/one-piece-op13-tournaments/play-tcg-dallas-regional-2025-l4ell-gsmby)|RU Ace|6-3|116 / 512|[notes](notes/op13_dallas_regionals_playtcg.txt)|
 
 ## Other stuff
 
